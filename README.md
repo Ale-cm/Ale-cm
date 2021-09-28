@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 , i'm Alejandro.  
+## 🌱 I’m currently learning English, Automation testing, Web Develoment.
 
 <!--
 **Ale-cm/Ale-cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
